@@ -1,0 +1,20 @@
+{
+  "chefDB" : [
+    {
+      "name": "luo",
+      "dishLog": [
+        {"date": "20160901", "dishCode": 1},
+        {"date": "20160901", "dishCode": 2}
+      ],
+      "dishRange": [ 1,2,3,5]
+    },
+    {
+      "name": "wang",
+      "dishLog": [
+        {"date": "20160901", "dishCode": 1},
+        {"date": "20160902", "dishCode": 1}
+      ],
+      "dishRange": [ 1,2,4,5]
+    }
+  ]
+}

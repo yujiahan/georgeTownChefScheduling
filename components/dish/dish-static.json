@@ -1,0 +1,18 @@
+{
+  "dishDB": [
+    {
+      "code": 1,
+      "name": "压锅焖牛腩",
+      "timeConsume": 5,
+      "canMerge": true,
+      "chefList": ["luo","wang"]
+    },
+    {
+      "code": 2,
+      "name": "农家小炒肉",
+      "timeConsume": 3,
+      "canMerge": true,
+      "chefList": ["luo", "liu"]
+    }
+  ]
+}

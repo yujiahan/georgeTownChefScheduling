@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/yujiahan/georgeTownChefScheduling/issues"
   },
-  "homepage": "https://github.com/yujiahan/georgeTownChefScheduling#readme"
+  "homepage": "https://github.com/yujiahan/georgeTownChefScheduling#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongodb": "^2.2.9"
+  }
 }
