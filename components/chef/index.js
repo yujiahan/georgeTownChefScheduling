@@ -14,6 +14,7 @@
  */
 
 
-function operate (){
+function getThisChefCurrentQueue (chefCode){
 
-}
+};
+exports.getThisChefCurrentQueue = getThisChefCurrentQueue;

@@ -32,4 +32,15 @@ function  init (){
     return "aaa";
 }
 
+function arrangeDish(){
+
+}
+
+function finishDish(){
+
+}
+
+
 exports.init = init;
+exports.arrangeDish = arrangeDish;
+exports.finishDish = finishDish;
