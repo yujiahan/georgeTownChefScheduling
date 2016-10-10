@@ -108,14 +108,6 @@ $(document.body).html(
     '        <td class="js-amountSum"></td>                                    '+
     '        <td class="js-rateSum"></td>                                    '+
     '    </tr>                                              '+
-    '    <tr class="sum" id="fuSum">                             '+
-    '        <td>合计</td>                                    '+
-    '        <td></td>                                      '+
-    '        <td class="js-numSum"></td>                                    '+
-    '        <td class="js-numRateSum"></td>'+
-    '        <td class="js-amountSum"></td>                                    '+
-    '        <td class="js-rateSum"></td>                                    '+
-    '    </tr>                                              '+
     '    <tr id="li">                                     '+
     '        <td>李贵林</td>                                    '+
     '        <td colspan=5>                                 '+
